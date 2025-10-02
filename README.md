@@ -3,6 +3,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%26+Spring+Enthusiast;Never+Stop+Learning!" />
+</p>
+
 ### 📌 About Me
 - 👨‍💻 I’m currently learning **Spring / Java / Cloud**
 - 🌱 I’m interested in **web development with Java and Spring**.  
