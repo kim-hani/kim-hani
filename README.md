@@ -5,9 +5,9 @@
 
 ### 📌 About Me
 - 👨‍💻 I’m currently learning **Spring / Java / Cloud**
-- 🌱 Interested in **Backend Development, System Architecture**
+- 🌱 I’m interested in **web development with Java and Spring**.  
 - 🎯 My Goal: **Write clean and scalable code**
-- ✨ Motto: *"Don't "*
+- ✨ My motto: *“Do not hurry, but do not stop.”*
 
 ---
 
@@ -29,16 +29,17 @@
 
 | LeetCode | Baekjoon | Programmers |
 |----------|----------|-------------|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/owteno?theme=dark&font=Karma&ext=activity) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=h_ani99)](https://solved.ac/h_ani99/) | ![Programmers](https://raw.githubusercontent.com/mazandi/mazandi/master/assets/programmers.svg) |
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/owteno?theme=dark&font=Karma&ext=activity) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=h_ani99)](https://solved.ac/h_ani99/) | [![Programmers](https://img.shields.io/badge/Programmers-000000?style=for-the-badge&logo=java&logoColor=white)](https://school.programmers.co.kr/users/rlahani99@gmail.com) |
+
 
 ---
 
 ### 📌 Pinned Repositories
-<a href="https://github.com/kim-hani/PROJECT1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kim-hani&repo=PROJECT1&theme=radical" />
+<a href="https://github.com/kim-hani/portforu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kim-hani&repo=portforu&theme=radical" />
 </a>
-<a href="https://github.com/kim-hani/PROJECT2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kim-hani&repo=PROJECT2&theme=radical" />
+<a href="https://github.com/kim-hani/tech-interview-study">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kim-hani&repo=tech-interview-study&theme=radical" />
 </a>
 
 ---
