@@ -41,9 +41,9 @@
 
 ### 🎯 Coding Profiles
 
-| LeetCode | Baekjoon | Programmers |
-|----------|----------|-------------|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/owteno?theme=dark&font=Karma&ext=activity) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=h_ani99)](https://solved.ac/h_ani99/) | [![Programmers](https://img.shields.io/badge/Programmers-000000?style=for-the-badge&logo=java&logoColor=white)](https://school.programmers.co.kr/users/rlahani99@gmail.com) |
+| LeetCode | Programmers |
+|----------|-------------|
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/owteno?theme=dark&font=Karma&ext=activity) | [![Programmers](https://img.shields.io/badge/Programmers-000000?style=for-the-badge&logo=java&logoColor=white)](https://school.programmers.co.kr/users/rlahani99@gmail.com) |
 
 
 ---
