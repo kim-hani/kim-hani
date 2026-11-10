@@ -43,7 +43,7 @@
 
 | LeetCode | Programmers |
 |----------|-------------|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/owteno?theme=dark&font=Karma&ext=activity) | [![Programmers](https://img.shields.io/badge/Programmers-000000?style=for-the-badge&logo=java&logoColor=white)](https://school.programmers.co.kr/users/rlahani99@gmail.com) |
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/owteno?theme=dark&font=Karma&ext=activity) | [![Programmers Progress](https://raw.githubusercontent.com/kim-hani/coding-test/main/progress/programmers.svg)](https://github.com/kim-hani/coding-test) |
 
 
 ---
